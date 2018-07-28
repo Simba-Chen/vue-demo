@@ -1,0 +1,20 @@
+.window{
+    height: 100px;
+    width: 100px;
+    border: 1px solid red;
+}
+.slides{
+    height: 100px;
+    width: 300px;
+    background-color: blue;
+}
+.vueBox>.btn{
+    position: relative;
+    top: 65px;
+}
+.vueBox{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
